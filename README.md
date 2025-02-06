@@ -1,2 +1,3 @@
 # Repositório-Local
-Descrição inserida através localmente após clonar
+Descrição inserida localmente após clonar
+
