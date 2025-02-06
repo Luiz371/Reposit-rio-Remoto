@@ -1,2 +1,2 @@
-# Repositório-Remoto
-Descrição inserida através do GitHub antes de clonar
+# Repositório-Remoto Depos Do Clone
+Descrição alterda através do GitHub depois de clonar
